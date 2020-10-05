@@ -1,6 +1,6 @@
 # :computer: Projeto
 
-Uma app simples com algumas telaS, utilizando o cloud firestore e firebase Auth.
+Uma app simples com algumas telas, utilizando o cloud firestore e firebase Auth.
 
 ---
 
