@@ -16,7 +16,7 @@ O projeto foi criado para apresentar um pouco do meu conhecimento no desenvolvim
 ## :arrow_forward: Rodar o Projeto
 
 - Primeiro passo, clone o projeto em sua maquina
-- Segundo, instalar de pendencias do node_modules
+- Segundo, instalar as pendências do package.json com "yarn install || npm i"
 - Terceiro rodar "react-native start"
 
 ---
